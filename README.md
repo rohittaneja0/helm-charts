@@ -7,3 +7,4 @@ helm repo index .
 ```
 
 Then add and commit the changes in git followed by a push.
+Test
